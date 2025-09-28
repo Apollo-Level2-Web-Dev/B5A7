@@ -116,8 +116,8 @@ This section is not required to meet the main requirements, but completing it ca
 
 | **Submission Date**                          | **Marks Available** |
 | -------------------------------------------- | ------------------- |
-| On or before **October 03, 2025 – 11:59 PM** | 🟢 Full 60 Marks    |
-| After **October 03, 2025**                   | 🔴 30 Marks Max     |
+| On or before **October 05, 2025 – 11:59 PM** | 🟢 Full 60 Marks    |
+| After **October 05, 2025**                   | 🔴 30 Marks Max     |
 
 ---
 
